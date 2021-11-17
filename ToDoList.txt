@@ -1,0 +1,5 @@
+do homework,1
+do dishes,2
+wash car,3
+wash dog,3
+pay bills,1
